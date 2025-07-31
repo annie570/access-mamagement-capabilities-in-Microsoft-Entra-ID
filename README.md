@@ -1,0 +1,1 @@
+# access-mamagement-capabilities-in-Microsoft-Entra-ID
