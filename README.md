@@ -51,14 +51,17 @@ You can find screenshots from the labs in the `/screenshots` folder. Below are a
 
 | Lab | Screenshot |
 
-| SSPR Configuration | ![SSPR](![1000048505](https://github.com/user-attachments/assets/f20e8a12-e752-4861-9642-a14c93c74520)
-![1000048506](https://github.com/user-attachments/assets/1a10db8b-45ee-4d7b-9168-c8b7bdec012b)
+| SSPR Configuration | ![SSPR](![Screenshot_20250727_183626_Gallery](https://github.com/user-attachments/assets/a6337c3a-8882-4221-baba-aeeee0302327)
+![Screenshot_20250727_183630_Gallery](https://github.com/user-attachments/assets/f1b6c8c9-13c6-4218-8933-ec3d343f911f)
 
-| Conditional Access Policy | ![Conditional Access](![1000048503](https://github.com/user-attachments/assets/09ef9ef9-8423-4b20-ae92-7d5f56d3e9b8)
-![1000048504](https://github.com/user-attachments/assets/dba24594-e2e4-4435-b22c-51368aa23ec4)
 
-| PIM Role Activation | ![PIM](![1000048501](https://github.com/user-attachments/assets/9a93560c-0df9-4525-80aa-dd3f952d8347)
-![1000048502](https://github.com/user-attachments/assets/23775f7e-10f9-4720-a1cf-0bbccd85ddc8)
+| Conditional Access Policy | ![Conditional Access](![Screenshot_20250727_183619_Gallery](https://github.com/user-attachments/assets/7dec5d54-0730-4007-a3ae-5ef1b6193146)
+![Screenshot_20250727_183622_Gallery](https://github.com/user-attachments/assets/058c165e-b793-488a-bf69-ea08876fee3f)
+
+
+| PIM Role Activation | ![PIM](![Screenshot_20250727_183615_Gallery](https://github.com/user-attachments/assets/f51c6c57-fbe2-495f-9f1f-a5905ff211cd)
+![Screenshot_20250727_183612_Gallery](https://github.com/user-attachments/assets/4c1adff0-6cc4-4e68-a9b4-34f5beb05dbe)
+
 
 
 ##Learning Path Reference
