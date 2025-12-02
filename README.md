@@ -1,4 +1,4 @@
-# access-mamagement-capabilities-in-Microsoft-Entra-ID
+# access-management-capabilities-in-Microsoft-Entra-ID
 
 This repository showcases my practical experience and learning from hands-on labs focused on **Microsoft Entra ID** (formerly Azure Active Directory). These labs are part of my cybersecurity and identity governance learning path, with a focus on **self-service password reset**, **conditional access**, and **privileged identity management**.
 
